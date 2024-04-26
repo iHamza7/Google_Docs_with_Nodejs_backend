@@ -1,10 +1,10 @@
-# full_app
+# Google Docs Clone with Nodejs backend
 
-A new Flutter project.
+You need to add your mongoDB clustor and Ip address of the Emulator and you are good to Go
 
-## Getting Started
+## Fronted Flutter and backend Nodejs
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application and custom backend.
 
 A few resources to get you started if this is your first Flutter project:
 
